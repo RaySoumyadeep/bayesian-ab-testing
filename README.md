@@ -1,3 +1,5 @@
+![ab-test.webp](https://github.com/bayesian-ab-testing/assets/ab-test.webp)
+
 The Bayesian approach to data analysis is applied across various fields such as marketing and engineering, and even includes sports and law.
 
 In online randomized controlled experiments, specifically A/B testing, you can use the Bayesian approach in 4 steps:
