@@ -1,4 +1,4 @@
-![ab-test.webp](https://github.com/bayesian-ab-testing/assets/ab-test.webp)
+![prior-posterior-evidence.png](https://github.com/bayesian-ab-testing/assets/prior-posterior-evidence.png)
 
 The Bayesian approach to data analysis is applied across various fields such as marketing and engineering, and even includes sports and law.
 
