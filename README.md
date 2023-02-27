@@ -1,3 +1,5 @@
+# A/B Testing to Distinguish Impact of Version of Landing Page on purchase conversion.
+
 ![ab-test.webp](https://github.com/RaySoumyadeep/bayesian-ab-testing/blob/main/assets/ab-test.webp)
 
 The Bayesian approach to data analysis is applied across various fields such as marketing and engineering, and even includes sports and law.
